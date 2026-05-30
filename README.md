@@ -105,16 +105,10 @@ personal-pc-power-optimizer/
 ## 🖥️ Application Screenshots
 
 ### 🏠 Desktop Dashboard
-
-```text
-Screenshots/dashboard.png
-```
+![Dashboard](Screenshots/dashboard.png)
 
 ### 📊 System Verification Dashboard
-
-```text
-Screenshots/verification.png
-```
+![Verification](Screenshots/verification.png)
 
 ---
 
