@@ -1,0 +1,11 @@
+Ignore local database and trained model weights
+data/telemetry.db
+data/model.pkl
+
+Ignore Python compiled bytecode
+/pycache/
+*.pyc
+
+Ignore environment configurations
+.env
+.venv/
