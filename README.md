@@ -107,13 +107,13 @@ personal-pc-power-optimizer/
 ### 🏠 Desktop Dashboard
 
 ```text
-screenshots/dashboard.png
+Screenshots/dashboard.png
 ```
 
 ### 📊 System Verification Dashboard
 
 ```text
-screenshots/verification.png
+Screenshots/verification.png
 ```
 
 ---
